@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: 75d868b9cae3ced4b8b14cc61ef666fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7103259389318126351
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_0
+  - first:
+      213: -2951361940126963676
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_1
+  - first:
+      213: -6313934347753318284
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_2
+  - first:
+      213: 4332070485370899747
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_3
+  - first:
+      213: -149623423764323175
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_4
+  - first:
+      213: 7069085131251269826
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_5
+  - first:
+      213: -2597232309251901520
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_6
+  - first:
+      213: -6918786104351319230
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_7
+  - first:
+      213: 7672040931068943099
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_8
+  - first:
+      213: 74304056606286244
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_9
+  - first:
+      213: -1992703452533398434
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_10
+  - first:
+      213: 3729580756971861807
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_11
+  - first:
+      213: -6544195526049693812
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_12
+  - first:
+      213: -5618711399271695154
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_13
+  - first:
+      213: -6030911895764369095
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_14
+  - first:
+      213: 1351045446006605658
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_15
+  - first:
+      213: 3454830989868514940
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_16
+  - first:
+      213: 2165926245975482276
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_17
+  - first:
+      213: 4512716803508210027
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_18
+  - first:
+      213: -8118834603235982567
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_19
+  - first:
+      213: -1619041354466271032
+    second: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 606
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4275cf79436e1e4dad5c9575c40c5b2
+      internalID: -682272317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 606
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0056da4f10ad38a4a802cd13051cc096
+      internalID: -1849185397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 606
+        width: 144
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e3198050fbabf4398d3a98e5f3ec25
+      internalID: 594015563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 606
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a486345890bb244c9056c304b1f9cc3
+      internalID: 1500788442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 606
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61697f539ada8a469250f428e1fa908
+      internalID: 806367491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 419
+        width: 145
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90012a98c5032bf4293691ea4ca4fc70
+      internalID: -504592481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 420
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c6fa3b00410c5418ddf462ad735fba
+      internalID: 1148016157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 420
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ef9a1dac6cdf2408ab528cfcee5e76
+      internalID: 1535159292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 418
+        width: 141
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64215ef26ebdf741a3dc678974e1339
+      internalID: -2125942897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 420
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4896eb98c372c4cac42f19a0067065
+      internalID: 1802261465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 231
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d03065c479b0c41b0db9c9e89e6049
+      internalID: -1715300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 231
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7c0583cca5b1d49b5a7f1b13362ca4
+      internalID: 1206524737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 233
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063d4bfab21f5ba4fb22b187fff516d4
+      internalID: -1528218545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 232
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816fbe5fb3bdca944921ac38f7bd2436
+      internalID: -1866146200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 233
+        width: 183
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ba55e2117a951458b18943f33a070d
+      internalID: 1068425893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 47
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03b36e0d780e92408c9c717ab05da25
+      internalID: 1637252052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 46
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5b8bce0cba94d4e8443f588f91cd8d
+      internalID: 2124547125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 46
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b154978d23bdaae41b1b7676c1d578f0
+      internalID: 246321860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 47
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfe2ecce52b2c842bdc0156d5502426
+      internalID: -1032817184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets 2D Game Objects - CraftPix_net(1)-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 46
+        width: 144
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60712824ff4b4042927838e6aa512c3
+      internalID: 1407216110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 404b1fd653d688b478763cb2366958ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_0: -682272317
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_1: -1849185397
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_10: -1558957704
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_11: -1715300012
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_12: 1206524737
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_13: -1528218545
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_14: -1866146200
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_15: 1068425893
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_16: 1637252052
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_17: 2124547125
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_18: 246321860
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_19: -1032817184
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_2: 594015563
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_20: 1407216110
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_3: 1500788442
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_4: 806367491
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_5: -504592481
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_6: 1148016157
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_7: 1535159292
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_8: -2125942897
+      Planets 2D Game Objects - CraftPix_net(1)-Photoroom_9: 1802261465
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
