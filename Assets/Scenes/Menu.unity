@@ -5252,6 +5252,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RocketButton: {fileID: 549058208}
+  PriceButton: {fileID: 898505489}
+  KEY: 5
 --- !u!1 &123898064
 GameObject:
   m_ObjectHideFlags: 0
@@ -6423,7 +6425,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 920157291}
         m_TargetAssemblyTypeName: BuyRockets, Assembly-CSharp
-        m_MethodName: BuyRocket
+        m_MethodName: PickRocket
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6826,6 +6828,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RocketButton: {fileID: 1380713955}
+  PriceButton: {fileID: 365647072}
+  KEY: 1
 --- !u!1 &682748439
 GameObject:
   m_ObjectHideFlags: 0
@@ -6917,6 +6921,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RocketButton: {fileID: 583070553}
+  PriceButton: {fileID: 1318478236}
+  KEY: 2
 --- !u!1 &684288628
 GameObject:
   m_ObjectHideFlags: 0
@@ -7007,6 +7013,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RocketButton: {fileID: 599090394}
+  PriceButton: {fileID: 0}
+  KEY: 0
 --- !u!1 &691821786
 GameObject:
   m_ObjectHideFlags: 0
@@ -7229,6 +7237,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RocketButton: {fileID: 1287669969}
+  PriceButton: {fileID: 1765051223}
+  KEY: 9
 --- !u!1 &738470682
 GameObject:
   m_ObjectHideFlags: 0
@@ -7452,6 +7462,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RocketButton: {fileID: 738470682}
+  PriceButton: {fileID: 1644404381}
+  KEY: 6
 --- !u!1 &898505489
 GameObject:
   m_ObjectHideFlags: 0
@@ -7676,6 +7688,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RocketButton: {fileID: 573248911}
+  PriceButton: {fileID: 2087034803}
+  KEY: 3
 --- !u!1 &963637808
 GameObject:
   m_ObjectHideFlags: 0
@@ -8599,6 +8613,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RocketButton: {fileID: 93116112}
+  PriceButton: {fileID: 1366397643}
+  KEY: 8
 --- !u!1 &1287669969
 GameObject:
   m_ObjectHideFlags: 0
@@ -8822,6 +8838,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RocketButton: {fileID: 140746225}
+  PriceButton: {fileID: 963637808}
+  KEY: 4
 --- !u!1 &1310256259
 GameObject:
   m_ObjectHideFlags: 0
@@ -9178,6 +9196,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RocketButton: {fileID: 123898064}
+  PriceButton: {fileID: 1594452192}
+  KEY: 7
 --- !u!1 &1366397643
 GameObject:
   m_ObjectHideFlags: 0
