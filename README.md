@@ -1,12 +1,21 @@
-Rocket Planet
+🚀 Rocket Planet
+<p align="center"> <img src="https://avatars.mds.yandex.net/get-games/6300668/2a00000193b05a3081099ea14af3df22b3fc/cover1" width="550" alt="Rocket Planet Cover"> </p>
+🪐 About the Game
 
-Description: Fly between planets on your rocket, avoiding asteroids and other dangers , collect space crystals to buy new rockets
+Rocket Planet is an arcade space adventure where you pilot your rocket between planets, dodging asteroids and surviving deadly cosmic hazards.
+Collect rare space crystals and use them to unlock new rockets, each with its own style.
 
-![cover](https://avatars.mds.yandex.net/get-games/6300668/2a00000193b05a3081099ea14af3df22b3fc/cover1)
-![screen_1](https://avatars.mds.yandex.net/get-games/11385414/2a00000193acc201c3f3262f5dec807f2767//orig)
-![screen_1](https://avatars.mds.yandex.net/get-games/10152950/2a00000193acc2022e72401ffc57d5943119//orig)
-![screen_1](https://avatars.mds.yandex.net/get-games/11385414/2a00000193acc202c01309adcb394e832381//orig)
-![screen_1](https://avatars.mds.yandex.net/get-games/11385414/2a00000193acc203336b8ecd90bdb746bc8f//orig)
-![screen_1](https://avatars.mds.yandex.net/get-games/2977039/2a00000193acc20265d22b6b73131748db99//orig)
-![screen_1](https://avatars.mds.yandex.net/get-games/10152950/2a00000193acc201fc15b08eb03ade428784//orig)
+🌟 Features
 
+🚀 Fly between planets and explore space
+
+☄️ Avoid asteroids and dangerous obstacles
+
+💎 Collect crystals to unlock new rockets
+
+🪐 Colorful cosmic visuals
+
+🎮 Simple and addictive gameplay
+
+🖼️ Screenshots
+<p align="center"> <img src="https://avatars.mds.yandex.net/get-games/11385414/2a00000193acc201c3f3262f5dec807f2767//orig" width="450"> </p> <p align="center"> <img src="https://avatars.mds.yandex.net/get-games/10152950/2a00000193acc2022e72401ffc57d5943119//orig" width="450"> </p> <p align="center"> <img src="https://avatars.mds.yandex.net/get-games/11385414/2a00000193acc202c01309adcb394e832381//orig" width="450"> </p> <p align="center"> <img src="https://avatars.mds.yandex.net/get-games/11385414/2a00000193acc203336b8ecd90bdb746bc8f//orig" width="450"> </p> <p align="center"> <img src="https://avatars.mds.yandex.net/get-games/2977039/2a00000193acc20265d22b6b73131748db99//orig" width="450"> </p> <p align="center"> <img src="https://avatars.mds.yandex.net/get-games/10152950/2a00000193acc201fc15b08eb03ade428784//orig" width="450"> </p>
