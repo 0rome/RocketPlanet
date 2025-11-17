@@ -1,0 +1,6 @@
+![screen_1](https://avatars.mds.yandex.net/get-games/11385414/2a00000193acc201c3f3262f5dec807f2767//orig)
+![screen_1](https://avatars.mds.yandex.net/get-games/10152950/2a00000193acc2022e72401ffc57d5943119//orig)
+![screen_1](https://avatars.mds.yandex.net/get-games/11385414/2a00000193acc202c01309adcb394e832381//orig)
+![screen_1](https://avatars.mds.yandex.net/get-games/11385414/2a00000193acc203336b8ecd90bdb746bc8f//orig)
+![screen_1](https://avatars.mds.yandex.net/get-games/2977039/2a00000193acc20265d22b6b73131748db99//orig)
+![screen_1](https://avatars.mds.yandex.net/get-games/10152950/2a00000193acc201fc15b08eb03ade428784//orig)
